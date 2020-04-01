@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/add_car"
+            android:icon="@drawable/steering_wheel"
+            android:title="Add your car"/>
+        <item
+            android:id="@+id/contact"
+            android:icon="@drawable/phone"
+            android:title="Contact" />
+    </group>
+
+    <item android:title="Emergency">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/police"
+                    android:icon="@drawable/policeman"
+                    android:title="Police" />
+                <item
+                    android:id="@+id/ambulance"
+                    android:icon="@drawable/ambulance"
+                    android:title="Ambulance" />
+                <item
+                    android:id="@+id/mechanic"
+                    android:icon="@drawable/spanner"
+                    android:title="Mechanic"/>
+            </group>
+        </menu>
+    </item>
+
+    <item android:title="Like us ?">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item
+                    android:id="@+id/rate"
+                    android:icon="@drawable/star"
+                    android:title="Rate Us" />
+                <item
+                    android:id="@+id/share"
+                    android:icon="@drawable/share"
+                    android:title="Share" />
+            </group>
+        </menu>
+    </item>
+</menu>

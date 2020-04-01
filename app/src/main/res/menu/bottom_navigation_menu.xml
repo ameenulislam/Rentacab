@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/user"
+        android:title="profile"/>
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/home_run"
+        android:title="Home" />
+    <item
+        android:id="@+id/trips"
+        android:icon="@drawable/road"
+        android:title="Trips" />
+    <item
+        android:id="@+id/notifications"
+        android:icon="@drawable/notification"
+        android:title="Notification" />
+</menu>
