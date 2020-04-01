@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438956198225",
+    "firebase_url": "https://rentacabs-a26e1.firebaseio.com",
+    "project_id": "rentacabs-a26e1",
+    "storage_bucket": "rentacabs-a26e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438956198225:android:764e1a1ed27b0b70b02b70",
+        "android_client_info": {
+          "package_name": "com.cuboid.rentacabs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438956198225-br7sgicnqhs2cagro2gj0bi8o40gocti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cuboid.rentacabs",
+            "certificate_hash": "c116be7c73c90a7757cb42e72df6161e1c8df852"
+          }
+        },
+        {
+          "client_id": "438956198225-1v4png3fksi2tj4tv4jhkos1egtnueh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU_bWxVzLnOjk2zRoRfwsPvNvnrav-_Lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438956198225-1v4png3fksi2tj4tv4jhkos1egtnueh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

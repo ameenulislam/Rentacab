@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RentaCabs</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="enter_number">Enter your phone number</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="already_regsitered">Already regsitered?</string>
+    <string name="enter_pwd">Enter a password</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="reset_desc">Fill in your email address and we shall send you the instrtuctions to your main id</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="car_content">Car content</string>
+    <string name="forgot_password">forgot password ?</string>
+    <string name="go_back"><![CDATA[Go back <<]]></string>
+</resources>
